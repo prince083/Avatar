@@ -4,19 +4,19 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 const events = [
-  { image: 'src/assets/event1.jpg', link: 'https://docs.google.com/forms/d/e/1FAIpQLSeCOymfM1yK9sNIkdKtbAkZNFMqWho6DqITMRlZW4h_SVvSXQ/viewform' },
-  { image: 'src/assets/event2.jpg', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdqbwPuye412yXjYXEWYkb3oFQt-D6z-ur2MfwXA2cbAXDx6Q/viewform' },
-  { image: 'src/assets/event3.jpg', link: 'https://docs.google.com/forms/d/e/1FAIpQLSeD7ByHg5H8acbEjz3w4V_8-o9ZP8VAOWEQbtHGveNwvZ335A/viewform' , alt: 'Event 3' },
-  { image: 'src/assets/event4.png', link: 'https://forms.gle/4' , alt: 'Event 4'},
-  { image: 'src/assets/event5.png', link: 'https://forms.gle/4', alt: 'Event 5' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 6' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 7' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 8' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 9' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 10' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 11' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 12' },
-  { image: 'src/assets/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 13' },
+  { image: '/event1.jpg', link: 'https://docs.google.com/forms/d/e/1FAIpQLSeCOymfM1yK9sNIkdKtbAkZNFMqWho6DqITMRlZW4h_SVvSXQ/viewform' },
+  { image: '/event2.jpg', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdqbwPuye412yXjYXEWYkb3oFQt-D6z-ur2MfwXA2cbAXDx6Q/viewform' },
+  { image: '/event3.jpg', link: 'https://docs.google.com/forms/d/e/1FAIpQLSeD7ByHg5H8acbEjz3w4V_8-o9ZP8VAOWEQbtHGveNwvZ335A/viewform' , alt: 'Event 3' },
+  { image: '/event4.png', link: 'https://forms.gle/4' , alt: 'Event 4'},
+  { image: '/event5.png', link: 'https://forms.gle/4', alt: 'Event 5' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 6' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 7' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 8' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 9' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 10' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 11' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 12' },
+  { image: '/event4.jpg', link: 'https://forms.gle/4', alt: 'Event 13' },
 ];
 
 export default function Carousel() {
