@@ -49,7 +49,7 @@ function App() {
       <section className="py-16 px-8 bg-gray-800">
         <h2 className="text-3xl font-bold mb-4">Join Our Community</h2>
         <p className="mb-4">Be a part of our official WhatsApp group to get all updates and opportunities!</p>
-        <a href="https://chat.whatsapp.com/YourInviteLink" className="bg-green-500 px-4 py-2 rounded text-white">Join WhatsApp Channel</a>
+        <a href="https://chat.whatsapp.com/GnZB42FXuzY7CIyU02OMHm" className="bg-green-500 px-4 py-2 rounded text-white">Join WhatsApp Channel</a>
       </section>
 
       <Footer />
