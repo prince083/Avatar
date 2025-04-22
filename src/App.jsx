@@ -22,10 +22,10 @@ function App() {
 
         <div className="absolute inset-0 bg-black bg-opacity-60 flex flex-col justify-center items-center text-center z-10">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-            Welcome to AVATAR TechFest
+            Welcome to AVATAR<sup>2025</sup> TechFest
           </h1>
           <p className="text-lg md:text-2xl text-cyan-300 mb-8">
-            Unleashing Innovation | 2025
+            A VISUAL ABSTRACT IN TECHNOLOGY ADVANCEMENT TO REVERBERATE
           </p>
           <ScrollDownButton />
         </div>
