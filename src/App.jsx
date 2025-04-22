@@ -9,6 +9,7 @@ function App() {
       <Navbar />
       <section className="relative h-screen w-full overflow-hidden">
         <video
+          preload='auto'
           autoPlay
           loop
           muted
